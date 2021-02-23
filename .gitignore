@@ -37,6 +37,7 @@ proguard/
 captures/
 
 app/.DS_Store
+app/src/.DS_Store
 
 # IntelliJ
 *.iml
